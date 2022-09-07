@@ -1,0 +1,10 @@
+streamlit
+pandas
+snscrape
+numpy
+matplotlib
+seaborn 
+nltk
+datetime
+WordCloud
+Image
